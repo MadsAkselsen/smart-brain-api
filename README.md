@@ -1,1 +1,1 @@
-Made a backend for an app using an api
+Made a backend for a face detection app
